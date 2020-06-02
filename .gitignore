@@ -7,7 +7,9 @@
 
 # testing
 /coverage
-
+.firebaserc
+firebase.json
+.firebase
 # production
 /build
 
