@@ -1,6 +1,6 @@
 import * as firebase from "firebase/app";
 import "firebase/database";
-const firebaseConfig = {
+const firebaseConfig = { //Coloca la configuración de tu proyecto Firebase
 apiKey: "xxx",
 authDomain: "PROJECTID.firebaseapp.com",
 databaseURL: "https://PROJECTID.firebaseio.com",
